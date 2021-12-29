@@ -12,3 +12,5 @@ pode criar intervalos de tempo entre estes. Também pode verificar tudo o que es
 To execute the program directly, go to, bin\debug\net6.0-windows\rato.exe
 
 Para executar o programa diretamente, vá a bin\debug\net6.0-windows\rato.exe
+
+""the advanced version is currently with some bugs in the cursor moving feature.""
