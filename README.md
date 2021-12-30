@@ -1,4 +1,4 @@
-# Macros-
+# Macros-1.0
 Macro maker with mouse and keyboard movements
 This beta program is written in portuguese (english version coming soon if requested) and has a simple and advanced way. Advanced way is adviced for those with a greater knowledge 
 of what they're doing. You can emulate mouse movements, clicks, scrolls and keystrokes / writing a string of characters. To split the actions, you can create time intervals between
